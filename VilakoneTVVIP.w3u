@@ -1,0 +1,49 @@
+
+{
+  "name": "Vilakone TV",
+  "author": "Vilakone",
+  "info": "Wiseplay Playlist",
+  "image": "https://t3.ftcdn.net/jpg/05/12/51/70/360_F_512517052_PakNcu7LLfCmtsQfsBzMhEzJzQbLAQaB.jpg",
+  "groups": [
+    {
+      "name": "📺 TV",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZhWuEJsGEQGLFxLbBY3QKSFn32m9IenP8w&s",
+      "author": "Vilakone",
+      "info": "TV",
+      "url": "https://docs.google.com/uc?export=download&id=1W_9k7vcbs__7XLEvc1m4tWV9gn0gz1bR",
+      "import": false
+    },
+    {
+      "name": "⚽ SPORTS",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZhWuEJsGEQGLFxLbBY3QKSFn32m9IenP8w&s",
+      "author": "Vilakone",
+      "info": "SPORTS",
+      "url": "https://docs.google.com/uc?export=download&id=1n_t5q1GkWJRsb1h398nCPGbRrYv-w3tc",
+      "import": false
+    },
+    {
+      "name": "🎬 MOVIES",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZhWuEJsGEQGLFxLbBY3QKSFn32m9IenP8w&s",
+      "author": "Vilakone",
+      "info": "MOVIES",
+      "url": "https://docs.google.com/uc?export=download&id=1zSTuOYLMAfUW0UoDXJI6xoFprPIbcrhg",
+      "import": false
+    },
+    {
+      "name": "📽️ SERIES",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZhWuEJsGEQGLFxLbBY3QKSFn32m9IenP8w&s",
+      "author": "Vilakone",
+      "info": "SERIES",
+      "url": "https://docs.google.com/uc?export=download&id=1DeffTRvObIEaD9VmtZoicfAbuIhiKrHm",
+      "import": false
+    },
+    {
+      "name": "🍿 ANIME",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZhWuEJsGEQGLFxLbBY3QKSFn32m9IenP8w&s",
+      "author": "Vilakone",
+      "info": "ANIME",
+      "url": "https://docs.google.com/uc?export=download&id=11aWoV4kGJNI_VwDnRSgPQdyFCmJJaYa-",
+      "import": false
+    }
+  ]
+}
